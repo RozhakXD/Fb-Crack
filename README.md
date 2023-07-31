@@ -2,13 +2,6 @@
 I created the Threads script with the aim of learning, you should read the terms and conditions for using this tool, I as a developer is not responsible if something unexpected happens.
 <p align="left"><img src="Data/Threads.jpg"/></p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Author-Rozhak-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-No-red?style=flat-square">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square">
-</p>
-
 [![GitHub watchers](https://img.shields.io/github/watchers/rozhakxd/Threads.svg?style=social&label=Watch)](https://GitHub.com/rozhakxd/Threads/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/rozhakxd/Threads.svg?style=social&label=Fork)](https://GitHub.com/rozhakxd/Threads/network/)
 [![GitHub stars](https://img.shields.io/github/stars/rozhakxd/Threads.svg?style=social&label=Star)](https://GitHub.com/rozhakxd/Threads/stargazers/)
