@@ -16,7 +16,7 @@ I created the Threads script with the aim of learning, you should read the terms
   
 ### Installation
 
-- **Linux - [Termux](https://f-droid.org/repo/com.termux_118.apk)**
+- **[Linux](https://drive.google.com/file/d/1HJU0rAjP_Sq3QJJFkigIrEuDJ-xUuniA/view?usp=drive_link) - [Termux](https://f-droid.org/repo/com.termux_118.apk)**
 
   ```
   >> apt update -y && apt upgrade -y
