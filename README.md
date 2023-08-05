@@ -56,7 +56,6 @@ I created the Threads script with the aim of learning, you should read the terms
 - First wait about 1-7 days or 30 days after cracking.
 - Run the script then select number One or **"Crack Hasil Checkpoint".**
 - Enter the name of the file you want to crack **"dir Results"** to find out the file name.
-- Enter the user-agent selection or use the previously used user-agent.
 
 ### Why Can't Use WIFI?
 
