@@ -76,7 +76,7 @@ I created the Threads script with the aim of learning, you should read the terms
 - Change the password on your Instagram account.
 - Use a fresh cracked account from Instagram.
 - Post a few photos every day so you don't think it's a fake account.
-- Before logging in to Termux the account was logged in to the Threads application and was online.
+- The account must be in an online state in the browser where he logged in.
 
 ##
 
