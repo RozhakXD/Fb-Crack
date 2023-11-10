@@ -20,6 +20,7 @@ I created the Threads script with the aim of learning, you should read the terms
 
   ```
   >> apt update -y && apt upgrade -y
+  >> apt install python-cryptography
   >> pkg install git python-pip 
   >> git clone https://github.com/RozhakXD/Threads
   >> cd "Threads"
