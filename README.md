@@ -22,7 +22,7 @@ I created the Threads script with the aim of learning, you should read the terms
   >> apt update -y && apt upgrade -y
   >> apt install python-cryptography
   >> pkg install git python-pip
-  >> git clone https://github.com/RozhakXD/Threads
+  >> git clone --depth 1 https://github.com/RozhakXD/Threads.git
   >> cd "Threads"
   >> python -m pip install --upgrade pip
   >> python -m pip install -r requirements.txt
