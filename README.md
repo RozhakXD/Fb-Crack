@@ -10,7 +10,7 @@ I created the Threads script with the aim of learning, you should read the terms
 ##
 
 ### Description
-**[Threads](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MzA0MzE0MTAzMTA3NjQy?story_media_id=3163734838172204500_5398218083)** is a python script that functions to guess passwords on Threads, apart from that this script is a complement to [Facebook](https://github.com/RozhakXD/Facemash) and [Instagram](https://github.com/RozhakXD/Premium) which were previously made. You can use Apikey from the [InstaKey](https://instakey.rozhak.xyz/register/) website, you can say it can be used in three scripts at once.
+**[Threads](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MzA0MzE0MTAzMTA3NjQy?story_media_id=3163734838172204500_5398218083)** is a python script that functions to guess passwords on Threads, apart from that this script is a complement to [Facebook](https://github.com/RozhakXD/Facemash) and [Instagram](https://github.com/RozhakXD/Premium) which were previously made. You can use Apikey from the [Lisensiku](https://www.lisensiku.biz.id/register/) website, you can say it can be used in three scripts at once.
 
 ##
   
