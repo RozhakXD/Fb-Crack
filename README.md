@@ -1,97 +1,98 @@
-# Threads Brute Force Premium - From Indonesian
-I created the Threads script with the aim of learning, you should read the terms and conditions for using this tool, I as a developer is not responsible if something unexpected happens.
-<p align="left"><img src="Data/Threads.jpg"/></p>
+# Threads Brute Force Premium - From Indonesia
 
-[![GitHub watchers](https://img.shields.io/github/watchers/rozhakxd/Threads.svg?style=social&label=Watch)](https://GitHub.com/rozhakxd/Threads/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/rozhakxd/Threads.svg?style=social&label=Fork)](https://GitHub.com/rozhakxd/Threads/network/)
-[![GitHub stars](https://img.shields.io/github/stars/rozhakxd/Threads.svg?style=social&label=Star)](https://GitHub.com/rozhakxd/Threads/stargazers/)
+![Threads](https://github.com/user-attachments/assets/11502f49-b2b5-40ec-9900-4ccd6cc5c811)
 
+## Description
+[Threads](https://github.com/RozhakXD/Threads) is a Python-based tool designed to demonstrate the security vulnerabilities in Threads accounts. Developed with educational purposes in mind, this tool allows users to explore and understand the importance of account security. Please use this tool responsibly and only for learning how to protect your own accounts.
 
-##
+## Feature
+The **Threads** tool offers a variety of powerful features designed to assist users in testing the security of Threads accounts. These features are tailored for different methods of account cracking, providing flexibility and efficiency in your tasks.
 
-### Description
-**[Threads](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MzA0MzE0MTAzMTA3NjQy?story_media_id=3163734838172204500_5398218083)** is a python script that functions to guess passwords on Threads, apart from that this script is a complement to [Facebook](https://github.com/RozhakXD/Facemash) and [Instagram](https://github.com/RozhakXD/Premium) which were previously made. You can use Apikey from the [Lisensiku](https://www.lisensiku.biz.id/register/) website, you can say it can be used in three scripts at once.
+- **Crack User from Followers**: This option allows you to target and crack user accounts based on their followers. By leveraging this method, you can focus on accounts that have a specific follower base, making your efforts more precise.
+- **Checkpoint Result Cracking**: If you encounter accounts that have hit Instagram’s security checkpoint, this feature enables you to crack those accounts and access their details. It’s a critical function for overcoming security barriers.
+- **Crack User from Name**: This feature allows you to crack accounts by targeting specific usernames. It’s useful for cases where you have a direct target and want to focus your efforts on a particular individual.
+- **View All Cracked Results**: This option provides a comprehensive view of all accounts that have been successfully cracked. It’s a handy feature for managing and reviewing your progress in one place.
+- **Crack User from Likes**: Target users based on their activity, specifically the posts they’ve liked. This method can be more effective in certain situations, especially when dealing with active accounts.
+- **Exit the Tool**: This option allows you to safely exit the tool once you’ve completed your tasks.
 
-##
-  
-### Installation
+This version breaks down the features in a way that’s easy to understand and highlights the specific functions of each option, making it more engaging and informative.
 
-- **[Linux](https://drive.google.com/file/d/1LLdb8kX_Skma4Xi7dmjcq9_wpH0__OU3/view?usp=drivesdk) - [Termux](https://f-droid.org/repo/com.termux_118.apk)**
+## Installation
 
-  ```
-  >> apt update -y && apt upgrade -y
-  >> pkg install git python-pip
-  >> git clone --depth 1 https://github.com/RozhakXD/Threads.git
-  >> cd "Threads"
-  >> python -m pip install -r requirements.txt
-  >> chmod +x aarch64
-  >> ./aarch64
-  ```
-  - **Running on Termux**
+- **[Linux](https://drive.google.com/file/d/1LLdb8kX_Skma4Xi7dmjcq9_wpH0__OU3/view?usp=drivesdk) - [Terminal Emulator](https://f-droid.org/repo/com.termux_1020.apk)**
 
     ```
-    >> cd "$HOME/Threads"
-    >> ./aarch64
+    $ apt update -y && apt upgrade -y
+    $ pkg install git python-pip
+    $ git clone --depth 1 https://github.com/RozhakXD/Threads.git
+    $ cd "Threads"
+    $ python -m pip install -r requirements.txt
+    $ chmod +x aarch64
+    $ ./aarch64
     ```
 
-##
+- **Running on Termux**
 
-### Getting Successful Results
+    ```
+    $ cd "$HOME/Threads"
+    $ ./aarch64
+    ```
 
-- Using good user-agents such as : **REALME, OPPO, POCO, XIAOMI, SAMSUNG, INFINIX, ONEPLUS, PIXEL, NEXUS, HUAWEI.**
-- Search for the target account in the Threads app search recommendations.
-- Use good methods like : **Instagram Apps or Threads Apps.**
-- I hope you use a single user-agent so you can see which is a good user-agent.
-- Noted for now only new accounts and small follower accounts are successful.
+## Troubleshooting
+When using a brute force tool for Threads accounts, several common issues may arise that can hinder success. These problems need to be identified and addressed strategically to maximize results.
 
-### No Results?
+### Enhancing Success Rates
+- **User-Agent Selection**: Use high-quality user-agents such as `REALME`, `OPPO`, `POCO`, `XIAOMI`, `SAMSUNG`, `INFINIX`, `ONEPLUS`, `PIXEL`, `NEXUS`, `HUAWEI`. These user-agents mimic real devices, reducing detection risks and improving success rates.
+- **Target Search**: Look for target accounts in the search recommendations within the Threads app. This increases the likelihood of finding active and accessible accounts.
+- **Method Usage**: Choose reliable methods like `Instagram Apps` or `Threads Apps`. These methods have been tested and are more likely to yield successful results.
+- **User-Agent Consistency**: Stick to a single user-agent throughout your attempts. This allows you to track which user-agent works best for your target.
+- **Account Type**: Focus on new accounts or those with fewer followers. These accounts typically have weaker security measures, making them easier to target.
 
-- The target you entered is not good or the password they used is a combination of special characters.
-- You don't play **"Airplane Mode"** it is recommended to turn on at 200 username.
-- Wrong password selection. Use the recommended password is **DEFAULT, COMPLETE** or number **01, 02**.
+### Resolving Issues with No Results
+- **Unfavorable Target**: The account you’re targeting may be too secure, or the password could be complex with special characters. Try selecting different targets or focus on those with simpler credentials.
+- **Airplane Mode Misuse**: Failing to activate Airplane Mode after every 200 attempts can reduce your success rate. It's recommended to enable Airplane Mode to refresh your network connection.
+- **Incorrect Password Selection**: Using the wrong password approach can lead to no results. Stick with recommended passwords such as `DEFAULT`, `COMPLETE`, or options like `01` and `02` for better chances.
+- **Device Variability**: We observe that results can vary across different devices. Not all devices yield satisfactory results, so success may depend on the specific device you are using.
 
-### Open Checkpoint Results?
+### How to Access Checkpoint Results
+- **Confirm Account Status**: Ensure that the account you are targeting is online and that the owner has confirmed with **Yes, it's me!** This confirmation is essential for proceeding.
+- **Wait Period**: After the initial cracking attempt, wait for about **1-7 days**, or up to 30 days, before attempting to access the checkpoint results. This waiting period helps ensure a higher chance of success.
+- **Run the Script**: Execute the script and choose option one, labeled `Crack Hasil Checkpoint` This will initiate the process to open the checkpoint results.
+- **File Name Entry**: Input the exact name of the file you want to crack from the "Results" directory. Make sure you know the precise file name to proceed effectively.
 
-- Only works on accounts that are online and the owner has confirmed **"Yes it's me"!**
-- First wait about 1-7 days or 30 days after cracking.
-- Run the script then select number One or **"Crack Hasil Checkpoint".**
-- Enter the name of the file you want to crack **"dir Results"** to find out the file name.
+### Challenges with Using WiFi
+- **IP Blocking**: WiFi connections often result in your IP address being blocked or flagged as spam by Instagram. This can hinder your ability to get successful results.
+- **Unsuccessful Results**: If you're not achieving successful or checkpoint results, it might be due to the limitations of WiFi connections.
+- **Process Stalling**: WiFi can cause the process to get stuck, especially when you encounter messages like "HIDUPKAN MODE PESAWAT 2 DETIK". This issue occurs because WiFi connections can be unstable and affect the script’s performance.
 
-### Why Can't Use WIFI?
+### Why Am I Only Getting Checkpoints
+- **Instagram Security Updates**: Instagram frequently updates its security measures, making it more challenging to bypass and increasing the likelihood of getting checkpoints.
+- **Incorrect User-Agent or Method**: Choosing the wrong user-agent or method can lead to unsuccessful attempts and result in checkpoints instead of successful logins.
+- **Provider Issues**: Your network provider might have restrictions or issues that affect your ability to bypass security and get successful results.
+- **Target Quality**: The target account you’re trying to crack might be of low quality or could have already been attempted by others, reducing your chances of success.
 
-- WiFi causes your IP address to be blocked or spam.
-- Not getting a Success or Checkpoint result.
-- WiFi causes it to get stuck at the words **"HIDUPKAN MODE PESAWAT 2 DETIK".**
+### Understanding Dump Failures
+- **Account Logout**: Your Threads account may have been logged out. Check and ensure that your account is still logged in.
+- **Account Blocked or Checkpoint**: Your account might be blocked for 24 hours or experiencing a checkpoint. This can prevent successful dumping.
+- **Target Verification**: Ensure that the target account is not locked and does not have a blue verification checkmark.
+- **Target or Cookie Issues**: Errors during the dump are often due to problems with the target or cookies. Consider updating or replacing them.
+- **Account Status**: Make sure your Threads account is online and refresh it every few minutes to prevent logout and maintain session stability.
 
-### I Only Got Checkpoints?
+### [Resolving Login Issues](https://drive.google.com/file/d/10kp-862cR3HOuvWRqGx--ZM-Wg-0IG4d/view?usp=drive_link)
+- **Avoid Browser Login**: Do not log in through a browser if the account was accessed using the `Application` method.
+- **Use Cracked Cookies**: Login using the cookies that were obtained through the cracking process.
+- **Update Your App**: Ensure you are using the latest version of Instagram or a trusted Threads clone app for compatibility.
+- **Enable Airplane Mode**: Activate "Airplane Mode" on your device before attempting to log in to prevent detection.
+- **Blocked Device or IP**: If you are unable to log in at all, it is likely that your device or IP address has been blocked. This issue is likely on the Threads side.
 
-- Instagram's security is getting tighter and they update all the time.
-- Wrong selection of user-agent and method.
-- Your provider may have a problem.
-- The target that you entered is not good or has been cracked by someone.
+Addressing these problems requires patience and strategic adjustments. By identifying issues and applying the right solutions, you can improve your chances of success in brute-forcing Threads accounts.
 
-### Account Always Logged Out?
-
-- Accounts must include information such as name, biography and profile photo.
-- Change the password on your Instagram account.
-- Use a fresh cracked account from Instagram.
-- Post a few photos every day so you don't think it's a fake account.
-- The account must be in an online state in the browser where he logged in.
-
-##
-
-### Screenshots
+## Screenshots
 
 ![Results/Ok-31-July-2023.txt](https://github.com/RozhakXD/Threads/blob/main/Data/Ok-31-July-2023.png)
 
-##
-
-### [Results Cannot Be Logged In?](https://drive.google.com/file/d/10kp-862cR3HOuvWRqGx--ZM-Wg-0IG4d/view?usp=drive_link)
-
-- Do not log in to the browser if the account is the result of the **"Application"** method.
-- Login using cracked cookies.
-- Login to the latest version of the Instagram or Threads clone application.
-- Turn on **"Airplane Mode"** before logging in.
+## Warning
+Using this tool comes with significant risks, including legal consequences and potential security breaches. Engaging in unauthorized activities or hacking can result in serious legal repercussions, account bans, and ethical dilemmas. You are fully responsible for how you use this tool, and must ensure compliance with all relevant laws and platform terms. Use this tool responsibly and ethically to avoid negative outcomes and ensure that your actions do not harm others or violate legal guidelines.
 
 ##
 
