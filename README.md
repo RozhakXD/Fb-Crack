@@ -43,15 +43,15 @@ When using a brute force tool for Threads accounts, several common issues may ar
 
 ### Enhancing Success Rates
 - **User-Agent Selection**: Use high-quality user-agents such as `REALME`, `OPPO`, `POCO`, `XIAOMI`, `SAMSUNG`, `INFINIX`, `ONEPLUS`, `PIXEL`, `NEXUS`, `HUAWEI`. These user-agents mimic real devices, reducing detection risks and improving success rates.
-- **Target Search**: Look for target accounts in the search recommendations within the Threads app. This increases the likelihood of finding active and accessible accounts.
 - **Method Usage**: Choose reliable methods like `Instagram Apps` or `Threads Apps`. These methods have been tested and are more likely to yield successful results.
+- **Target Search**: Look for target accounts in the search recommendations within the Threads app. This increases the likelihood of finding active and accessible accounts.
 - **User-Agent Consistency**: Stick to a single user-agent throughout your attempts. This allows you to track which user-agent works best for your target.
 - **Account Type**: Focus on new accounts or those with fewer followers. These accounts typically have weaker security measures, making them easier to target.
 
 ### Resolving Issues with No Results
+- **Incorrect Password Selection**: Using the wrong password approach can lead to no results. Stick with recommended passwords such as `DEFAULT`, `COMPLETE`, or options like `01` and `02` for better chances.
 - **Unfavorable Target**: The account you’re targeting may be too secure, or the password could be complex with special characters. Try selecting different targets or focus on those with simpler credentials.
 - **Airplane Mode Misuse**: Failing to activate Airplane Mode after every 200 attempts can reduce your success rate. It's recommended to enable Airplane Mode to refresh your network connection.
-- **Incorrect Password Selection**: Using the wrong password approach can lead to no results. Stick with recommended passwords such as `DEFAULT`, `COMPLETE`, or options like `01` and `02` for better chances.
 - **Device Variability**: We observe that results can vary across different devices. Not all devices yield satisfactory results, so success may depend on the specific device you are using.
 
 ### How to Access Checkpoint Results
@@ -61,15 +61,15 @@ When using a brute force tool for Threads accounts, several common issues may ar
 - **File Name Entry**: Input the exact name of the file you want to crack from the "Results" directory. Make sure you know the precise file name to proceed effectively.
 
 ### Challenges with Using WiFi
+- **Process Stalling**: WiFi can cause the process to get stuck, especially when you encounter messages like "HIDUPKAN MODE PESAWAT 2 DETIK". This issue occurs because WiFi connections can be unstable and affect the script’s performance.
 - **IP Blocking**: WiFi connections often result in your IP address being blocked or flagged as spam by Instagram. This can hinder your ability to get successful results.
 - **Unsuccessful Results**: If you're not achieving successful or checkpoint results, it might be due to the limitations of WiFi connections.
-- **Process Stalling**: WiFi can cause the process to get stuck, especially when you encounter messages like "HIDUPKAN MODE PESAWAT 2 DETIK". This issue occurs because WiFi connections can be unstable and affect the script’s performance.
 
 ### Why Am I Only Getting Checkpoints
+- **Target Quality**: The target account you’re trying to crack might be of low quality or could have already been attempted by others, reducing your chances of success.
 - **Instagram Security Updates**: Instagram frequently updates its security measures, making it more challenging to bypass and increasing the likelihood of getting checkpoints.
 - **Incorrect User-Agent or Method**: Choosing the wrong user-agent or method can lead to unsuccessful attempts and result in checkpoints instead of successful logins.
 - **Provider Issues**: Your network provider might have restrictions or issues that affect your ability to bypass security and get successful results.
-- **Target Quality**: The target account you’re trying to crack might be of low quality or could have already been attempted by others, reducing your chances of success.
 
 ### Understanding Dump Failures
 - **Account Logout**: Your Threads account may have been logged out. Check and ensure that your account is still logged in.
@@ -79,9 +79,9 @@ When using a brute force tool for Threads accounts, several common issues may ar
 - **Account Status**: Make sure your Threads account is online and refresh it every few minutes to prevent logout and maintain session stability.
 
 ### [Resolving Login Issues](https://drive.google.com/file/d/10kp-862cR3HOuvWRqGx--ZM-Wg-0IG4d/view?usp=drive_link)
+- **Update Your App**: Ensure you are using the latest version of Instagram or a trusted Threads clone app for compatibility.
 - **Avoid Browser Login**: Do not log in through a browser if the account was accessed using the `Application` method.
 - **Use Cracked Cookies**: Login using the cookies that were obtained through the cracking process.
-- **Update Your App**: Ensure you are using the latest version of Instagram or a trusted Threads clone app for compatibility.
 - **Enable Airplane Mode**: Activate "Airplane Mode" on your device before attempting to log in to prevent detection.
 - **Blocked Device or IP**: If you are unable to log in at all, it is likely that your device or IP address has been blocked. This issue is likely on the Threads side.
 
