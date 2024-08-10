@@ -88,7 +88,6 @@ When working with a brute force tool for Threads accounts, you may encounter sev
 Addressing these problems requires patience and strategic adjustments. By identifying issues and applying the right solutions, you can improve your chances of success in brute-forcing Threads accounts.
 
 ## Screenshots
-
 ![Temporary/Ok-31-July-2023](https://github.com/user-attachments/assets/37d2344a-a33c-4d47-90cf-e40dd9fc5e9f)
 
 ## Warning
