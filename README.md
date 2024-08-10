@@ -39,7 +39,7 @@ This version simplifies the features into an easily understandable format, clear
     ```
 
 ## Troubleshooting
-When using a brute force tool for Threads accounts, you might encounter several common issues that can affect your success. Identifying and addressing these problems strategically is crucial to optimizing your results.
+When working with a brute force tool for Threads accounts, you may encounter several common issues that can impact your success. Identifying and addressing these problems strategically is essential to maximize your results and ensure effective operation of the tool.
 
 ### Enhancing Success Rates
 - **User-Agent Selection**: Use high-quality user-agents such as `REALME`, `OPPO`, `POCO`, `XIAOMI`, `SAMSUNG`, `INFINIX`, `ONEPLUS`, `PIXEL`, `NEXUS`, `HUAWEI`. These user-agents mimic real devices, reducing detection risks and improving success rates.
