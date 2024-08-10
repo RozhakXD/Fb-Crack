@@ -72,9 +72,9 @@ When using a brute force tool for Threads accounts, several common issues may ar
 - **Provider Issues**: Your network provider might have restrictions or issues that affect your ability to bypass security and get successful results.
 
 ### Understanding Dump Failures
-- **Account Logout**: Your Threads account may have been logged out. Check and ensure that your account is still logged in.
-- **Account Blocked or Checkpoint**: Your account might be blocked for 24 hours or experiencing a checkpoint. This can prevent successful dumping.
 - **Target Verification**: Ensure that the target account is not locked and does not have a blue verification checkmark.
+- **Account Blocked or Checkpoint**: Your account might be blocked for 24 hours or experiencing a checkpoint. This can prevent successful dumping.
+- **Account Logout**: Your Threads account may have been logged out. Check and ensure that your account is still logged in.
 - **Target or Cookie Issues**: Errors during the dump are often due to problems with the target or cookies. Consider updating or replacing them.
 - **Account Status**: Make sure your Threads account is online and refresh it every few minutes to prevent logout and maintain session stability.
 
