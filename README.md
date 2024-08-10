@@ -80,9 +80,9 @@ When using a brute force tool for Threads accounts, several common issues may ar
 
 ### [Resolving Login Issues](https://drive.google.com/file/d/10kp-862cR3HOuvWRqGx--ZM-Wg-0IG4d/view?usp=drive_link)
 - **Update Your App**: Ensure you are using the latest version of Instagram or a trusted Threads clone app for compatibility.
-- **Avoid Browser Login**: Do not log in through a browser if the account was accessed using the `Application` method.
 - **Use Cracked Cookies**: Login using the cookies that were obtained through the cracking process.
 - **Enable Airplane Mode**: Activate "Airplane Mode" on your device before attempting to log in to prevent detection.
+- **Avoid Browser Login**: Do not log in through a browser if the account was accessed using the `Application` method.
 - **Blocked Device or IP**: If you are unable to log in at all, it is likely that your device or IP address has been blocked. This issue is likely on the Threads side.
 
 Addressing these problems requires patience and strategic adjustments. By identifying issues and applying the right solutions, you can improve your chances of success in brute-forcing Threads accounts.
