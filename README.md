@@ -27,15 +27,15 @@ This version simplifies the features into an easily understandable format, clear
     $ git clone --depth 1 https://github.com/RozhakXD/Threads.git
     $ cd "Threads"
     $ python -m pip install -r requirements.txt
-    $ chmod +x aarch64
-    $ ./aarch64
+    $ chmod +x Run
+    $ ./Run
     ```
 
 - **Running on Termux**
 
     ```
     $ cd "$HOME/Threads"
-    $ ./aarch64
+    $ ./Run
     ```
 
 ## Troubleshooting
@@ -89,7 +89,7 @@ Addressing these problems requires patience and strategic adjustments. By identi
 
 ## Screenshots
 
-![Results/Ok-31-July-2023.txt](https://github.com/RozhakXD/Threads/blob/main/Data/Ok-31-July-2023.png)
+![Temporary/Ok-31-July-2023](https://github.com/user-attachments/assets/37d2344a-a33c-4d47-90cf-e40dd9fc5e9f)
 
 ## Warning
 Using this tool comes with significant risks, including legal consequences and potential security breaches. Engaging in unauthorized activities or hacking can result in serious legal repercussions, account bans, and ethical dilemmas. You are fully responsible for how you use this tool, and must ensure compliance with all relevant laws and platform terms. Use this tool responsibly and ethically to avoid negative outcomes and ensure that your actions do not harm others or violate legal guidelines.
