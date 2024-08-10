@@ -6,7 +6,7 @@
 [Threads](https://github.com/RozhakXD/Threads) is an advanced Python-based tool crafted to highlight security vulnerabilities in Threads accounts. Designed exclusively for educational purposes, it provides users with a hands-on opportunity to explore and grasp the critical aspects of account security. By simulating potential security breaches, this tool offers valuable insights into protecting your accounts effectively. Remember, responsible usage is key—use this tool to enhance your understanding of account security and to safeguard your own accounts.
 
 ## Feature
-The **Threads** tool offers a variety of powerful features designed to assist users in testing the security of Threads accounts. These features are tailored for different methods of account cracking, providing flexibility and efficiency in your tasks.
+The **Threads** tool comes equipped with a range of powerful features aimed at helping users test the security of Threads accounts. Designed for flexibility and efficiency, these features support various methods of account cracking, ensuring a comprehensive approach to your tasks.
 
 - **Crack User from Followers**: This option allows you to target and crack user accounts based on their followers. By leveraging this method, you can focus on accounts that have a specific follower base, making your efforts more precise.
 - **Checkpoint Result Cracking**: If you encounter accounts that have hit Instagram’s security checkpoint, this feature enables you to crack those accounts and access their details. It’s a critical function for overcoming security barriers.
@@ -15,7 +15,7 @@ The **Threads** tool offers a variety of powerful features designed to assist us
 - **Crack User from Likes**: Target users based on their activity, specifically the posts they’ve liked. This method can be more effective in certain situations, especially when dealing with active accounts.
 - **Exit the Tool**: This option allows you to safely exit the tool once you’ve completed your tasks.
 
-This version breaks down the features in a way that’s easy to understand and highlights the specific functions of each option, making it more engaging and informative.
+This version simplifies the features into an easily understandable format, clearly showcasing the specific functions of each option, making it both engaging and informative.
 
 ## Installation
 
