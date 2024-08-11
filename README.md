@@ -3,7 +3,7 @@
 ![Threads](https://github.com/user-attachments/assets/11502f49-b2b5-40ec-9900-4ccd6cc5c811)
 
 ## Description
-[Threads](https://github.com/RozhakXD/Threads) is an advanced Python-based tool specifically designed to showcase security vulnerabilities in Threads accounts. Created exclusively for educational purposes, this tool allows users to gain a practical understanding of account security by simulating potential breaches. It provides valuable insights into how to effectively protect your accounts. Responsible usage is crucial—employ this tool to enhance your security knowledge and safeguard your own accounts.
+[Threads](https://github.com/RozhakXD/Threads) is a powerful Python-based tool created to demonstrate the security gaps in Threads accounts. Built for educational purposes, this tool helps users explore the intricacies of account security by simulating real-world vulnerabilities. It offers practical insights on how to better protect your accounts. Use this tool responsibly to deepen your understanding of digital security and to ensure your own accounts remain safe.
 
 ## Feature
 The **Threads** tool comes equipped with a range of powerful features aimed at helping users test the security of Threads accounts. Designed for flexibility and efficiency, these features support various methods of account cracking, ensuring a comprehensive approach to your tasks.
